@@ -75,7 +75,7 @@ AltTabPopup2.prototype = {
 	        }
 	    }
 	    ap1.cachedWindows = [win];
-	    appIcons.push(ap1); 
+	    appIcons.push(ap1);
 	}
 
         if (!windows.length)
